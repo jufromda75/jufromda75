@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jufromda75 
+- 👋 Hi, I’m Julian Vanderpool 
 - 👀 I’m interested in front end engineering
 - 🌱 I’m currently learning javascript, css, html
 - 💞️ I’m looking to collaborate on internships/coops
