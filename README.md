@@ -2,7 +2,8 @@
 - 👀 I’m interested in front end engineering
 - 🌱 I’m currently learning javascript, css, html
 - 💞️ I’m looking to collaborate on internships/coops
-- 📫 How to reach me 7573777902, julianva09@gmail.com
+- 📫 How to reach me 7573777902, julianvanderpool23@outlook.com
+- 
 
 <!---
 jufromda75/jufromda75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
